@@ -1,0 +1,7 @@
+- 👋 Hi, I’m George Spyros
+- 👀 I’m interested in financial data analysis and machine learning.
+- 🌱 I’m currently learning advanced techniques in financial modelling and data science.
+- 💞️ I’m looking to collaborate on projects related to financial analytics and predictive modelling.
+- 📫 How to reach me: You can reach me via email at spyrosg@tcd.ie or connect with me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy hiking and exploring new trails in my free time.
